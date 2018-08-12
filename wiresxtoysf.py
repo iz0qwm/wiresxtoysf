@@ -35,9 +35,9 @@ import requests
 import socket
 import string
 
-UDP_IP = "kwos.dydns.org"
-UDP_PORT = 5005
-MESSAGE = "Hello, World!"
+UDP_IP = "kwos.dyndns.org"
+UDP_PORT = 46120
+MESSAGE = "CP00000A0B02000A0517002"
 
 print "UDP target IP:", UDP_IP
 print "UDP target port:", UDP_PORT
